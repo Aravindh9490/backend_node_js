@@ -1,0 +1,7 @@
+Post http://localhost:3004/adduser
+Content-Type: application/json
+
+{
+    "name":"aravind123",
+    "password":"Aravindsk"
+}
